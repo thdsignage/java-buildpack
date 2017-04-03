@@ -20,7 +20,7 @@
 # e.g.  repository_root: "http://example.com/oracle-jre/{platform}/{architecture}"
 ---
 jre:
-  version: 1.8+
+  version: 1.8.+
   repository_root: "https://uxbinaries.artifactory.homedepot.com/artifactory/uxbinaries-release-local/com/oracle/jdk/oracle-jdk"
 jvmkill_agent:
   version: 1.+
